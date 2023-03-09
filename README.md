@@ -1,0 +1,1 @@
+Analiza danych przedstawiających liczbę morderstw w latach 2014 i 2015 we miastach Stanów Zjednoczonych z liczbą mieszkańców powyżej 200 tysięcy, liczbę mieszkańców w każdym z miast oraz współczynnik morderstw na 100 tysięcy mieszkańców dla każdego z miast w poszczególnych latach. Dane pochodzą z FBI Uniform Crime Reports.
